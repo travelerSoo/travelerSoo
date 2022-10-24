@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @travelerSoo, econometrics student at University of Groningen in the Netherlands.
-- 👀 I’m interested in finance, especially in rates and commodity.
+- 👋 Hi, I’m @travelerSoo, econometrics student at Vrije Universiteit in the Netherlands.
+- 👀 I’m interested in finance, especially in rates market.
 - 🌱 I’m currently learning how to build awesome financial forecasting models.
 - 💞️ I’m looking to collaborate on financial data analysis and quant trading.
 - 📫 How to reach me -- sooyeonj29@gmail.com
