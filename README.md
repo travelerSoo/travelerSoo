@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @travelerSoo, a quantitative data professional with experience in banking and trading.
+- 👋 Hi, I’m @travelerSoo, data analyst passionate about culture and trend
 - 📫 How to reach me -- sooyeonj29@gmail.com
 
 <!---
