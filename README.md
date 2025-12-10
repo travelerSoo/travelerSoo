@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @travelerSoo, data analyst passionate about culture and trend
+- 👋 Hi, I’m @travelerSoo, a data analyst passionate about trend & culture
 - 📫 How to reach me -- sooyeonj29@gmail.com
 
 <!---
