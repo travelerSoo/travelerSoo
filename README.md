@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @travelerSoo, a data analyst passionate about culture & trend
+- 👋 Hi, I’m Sooyeon Jin - I am passionate about creating social impact with data analytics.
 - 📫 How to reach me -- sooyeonj29@gmail.com
 
 <!---
