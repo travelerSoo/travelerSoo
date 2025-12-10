@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sooyeon Jin - I am passionate about creating social impact with data.
+- 👋 Hi, I’m Sooyeon Jin - a data analyst passionate about art and culture 
 - 📫 How to reach me -- sooyeonj29@gmail.com
 
 <!---
