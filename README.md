@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sooyeon Jin - a data analyst passionate about culture and environment
+- 👋 Hi, I’m Sooyeon Jin - a data analyst passionate about culture and trend
 - 📫 How to reach me -- sooyeonj29@gmail.com
 
 <!---
